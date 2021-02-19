@@ -17,7 +17,7 @@ function draw() {
   background(0,0,0);  
 
   //bounceoff();
-  collide();
+  //collide();
   isTouch(movingRect, fixedRect);
   
   drawSprites();
